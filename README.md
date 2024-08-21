@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# sevent
-Sevent - Smart solutions for supermarket
-=======
-# Projeto Nome do Projeto
+# Aurora.ai
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://travis-ci.org/username/projectname)
@@ -29,4 +25,3 @@ Descrição breve do projeto, o que ele faz e quais são os principais objetivos
 1. Clone o repositório:
    ```bash
    git clone https://github.com/username/repo.git
->>>>>>> db22145 (Added README.md)
